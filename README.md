@@ -1,7 +1,7 @@
 ## Joint Acne Image Grading and Counting via Label Distribution Learning
 Pytorch implementation of "Joint Acne Image Grading and Counting via Label Distribution Learning"
 
-This work was accepted by ICCV 2019 [paper](http://xiaopingwu.cn/assets/paper/iccv2019_ldl.pdf).
+This work was accepted by ICCV 2019 [[paper](http://xiaopingwu.cn/assets/paper/iccv2019_ldl.pdf)].
 
 ### ACNE04 Dataset
 
