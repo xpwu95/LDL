@@ -27,7 +27,7 @@ class DatasetProcessing(Dataset):
         self.lesions = np.array(self.lesions)#.reshape(-1, 1)
 
         if 'NNEW_trainval' in img_filename:
-            ratio = 0.1
+            ratio = 1.0#0.1
             import random
             random.seed(42)
             indexes = []
