@@ -19,3 +19,8 @@ If you find this work helpful, please cite it as
 ```
 
 ATTN: This work is free for academic usage. For other purposes, please contact Xiaoping Wu (xpwu95@163.com).
+
+
+Hello Xiaoping Wu,
+We would like to use your model for a study we are running. Is there a licensing agreement or terms for our usage of your model?
+Thanks
